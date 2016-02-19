@@ -1,0 +1,3 @@
+I made some mistakes in my previous email setting of Github, so it makes all my contributions for last three months invisible to others...
+The tutorial is as below:
+https://help.github.com/articles/changing-author-info/
